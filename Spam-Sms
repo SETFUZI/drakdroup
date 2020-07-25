@@ -7,6 +7,8 @@ nower
 pkg install update
 pkg install upgrade
 pkg install git
+git clone https://github.com/SETFUZI/drakdroup/edit/master/Spam-Sms
+
 
 
 #Cara Pakai

@@ -11,7 +11,9 @@ pkg install git
 
 #Cara Pakai
 
-python Harga.py
+cd-Spam-Sms
+
+python Spam.py
 
 
 
